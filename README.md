@@ -1,9 +1,9 @@
-<h3 align="center ">REACT APP TESTING WITH CYPRESS</h3>
+<h1 align="center ">REACT APP TESTING WITH CYPRESS</h1>
 <br>
 
 <!-- HOW TO RUN -->
 
-## ![rocketIcon][rocketicon-shield] How to run
+## How to run
 
 Please follow the below instructions to run this branch in your machine:
 
